@@ -7,13 +7,6 @@ Galaga was created solely by Valdemar and me, and Breakout was created in three 
 
 I have re-uploaded the repository to showcase the work. This project was initiated during the dark times, when we were still n00bs at coding, coded everything using Live Share on a single computer, had constant merge conflicts (even though mostly one person pushed stuff to the remote repo) and did not know how to use Git or GitHub! However, (luckily) we still learned a ton, and contributed(read: "Suffered") quite equally to the project and ended the course with a great result! 
 
-# Galaga:
-
-This was the first game we created and the most simple one. Here you shoot down aliens with your starship.
-
-## Run it:
-Clone the repository, then head to the Galaga-folder and write "dotnet run" in the terminal at that location.
-
 # Breakout:
 This was the second game we created using the DIKUArcade library, and also the more complex one to make.
 
@@ -24,6 +17,14 @@ We created this in three sprints. The course simulated sort of an agile setting,
 ## Run it:
 
 Head to the Breakout folder and run "dotnet run" from there. 
+
+
+# Galaga:
+
+This was the first game we created and the most simple one. Here you shoot down aliens with your starship.
+
+## Run it:
+Clone the repository, then head to the Galaga-folder and write "dotnet run" in the terminal at that location.
 
 
 ## Developers of DIKUArcade:
