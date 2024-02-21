@@ -1,11 +1,11 @@
 # Introduction
-This is work conducted by me and Valdemar Ring (fkn112@alumni.ku.dk),  Laust Møller (sbh546@alumni.ku.dk) and Kristian Lind (nqs159@alumni.ku.dk) in 2022. 
+This is work conducted by me and Valdemar Ring (fkn112@alumni.ku.dk), Laust Møller (sbh546@alumni.ku.dk) and Kristian Lind (nqs159@alumni.ku.dk) in 2022. 
 
 We have created two games Galaga and Breakout using the simple DIKUArcade 2D Game Engine created by the Computer Science department (DIKU) at the University of Copenhagen.
 
 Galaga was created solely by Valdemar and me, and Breakout was created in three sprints by all four of us, in which Laust and Kristian joined us during the second sprint.
 
-I have re-uploaded the repository here to show off the work, which was created in an educational setting. 
+I have re-uploaded the repository to showcase the work. This project was initiated during the dark times, when we were still n00bs at coding, coded everything using Live Share on a single computer, had constant merge conflicts (even though mostly one person pushed stuff to the remote repo) and did not know how to use Git or GitHub! However, (luckily) we still learned a ton, and contributed(read: "Suffered") quite equally to the project and ended the course with a great result! 
 
 # Galaga:
 
