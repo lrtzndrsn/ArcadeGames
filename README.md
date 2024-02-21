@@ -5,6 +5,8 @@ We have created two games Galaga and Breakout using the simple DIKUArcade 2D Gam
 
 Galaga was created solely by Valdemar and me, and Breakout was created in three sprints by all four of us, in which Laust and Kristian joined us during the second sprint.
 
+I have re-uploaded the repository here to show off the work, which was created in an educational setting. 
+
 # Galaga:
 
 This was the first game we created and the most simple one. Here you shoot down aliens with your starship.
