@@ -27,12 +27,13 @@ Head to the Breakout folder and run "dotnet run" from there.
 
 
 ## Developers of DIKUArcade:
-Boris Düdder (SU course responsible, EventBus and rendering)
-Oleksandr Shturmov
-Alexander Christensen (main architect)
-Christian Olsen
-Simon Surland Andersen
-Mads Obitsoe
-Benjamin Kanding
+
+* Boris Düdder (SU course responsible, EventBus and rendering)
+* Oleksandr Shturmov
+* Alexander Christensen (main architect)
+* Christian Olsen
+* Simon Surland Andersen
+* Mads Obitsoe
+* Benjamin Kanding
 
 ### Read more about it in the README file included in the DIKUArcade folder.
